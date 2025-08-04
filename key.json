@@ -216,6 +216,12 @@
     "expiresAt": "2035-12-31",
     "allowOffline": true
   },
+   {
+        "device_id": "f0486e57dd040e0a",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
   {
     "id": "android_device_id_2",
     "username": "user2",
