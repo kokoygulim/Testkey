@@ -11,7 +11,7 @@
     "username": "Anyname",
     "password": "Anyname",
     "expiresAt": "2035-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
 {
     "id": "eec3032f7e998d3b",
